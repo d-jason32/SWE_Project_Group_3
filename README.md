@@ -9,3 +9,7 @@ Shahran Islam
 Jaspreet Singh 
 
 Melvin Salamanca Ramirez
+
+# To run
+npm install
+npm run dev
